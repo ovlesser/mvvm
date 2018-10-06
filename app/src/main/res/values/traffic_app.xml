@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="traffic_usage">%d</string>
+    <dimen name="traffic_item_min_height">0dp</dimen>
+</resources>
